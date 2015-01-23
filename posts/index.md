@@ -1,5 +1,6 @@
 ---
 layout: post-index
-title: All Posts
+title: Blogs
+comments: true
 excerpt: "A List of Posts"
 ---
